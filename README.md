@@ -20,7 +20,3 @@
 ### 📫 How to reach me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriellabarreto/)](https://www.linkedin.com/in/gabriellabarreto/)
-
-<a href="gabriellakbsoares@gmail.com">
-  <img alt="Gabriella's Email" src="https://img.shields.io/badge/-E--mail-1A4730?style=flat-square&logo=Gmail&logoColor=white" />
-</a>
