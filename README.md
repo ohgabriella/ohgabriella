@@ -13,8 +13,8 @@
 
 ### 🤟 Statistics and Languages
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ohgabriella&show_icons=true&theme=onedark_duo" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ohgabriella&theme=onedark_duo" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ohgabriella&show_icons=true&theme=buefy" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ohgabriella&theme=buefy" />
 </p>
 
 ### 📫 How to reach me
